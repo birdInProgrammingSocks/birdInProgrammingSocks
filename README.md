@@ -1,6 +1,6 @@
 Hello, and welcome to my profile. I'm a bird in programming socks.
 
-I'm currently working on Audiophile, an adult-oriented Electron app for syncing system audio to vibration motors in Buttplug.io compatible devices.
+I'm currently working on creating a working version of Audiophile, an adult-oriented Electron app for syncing system audio to vibration motors in Buttplug.io compatible devices.
 
 I can be reached on Discord at SkyeBirb#2002. 
 
